@@ -1,5 +1,5 @@
 # Finance Data Analysis with PySpark
-## Overview 
+## Overview
 This project demonstrates how to perform financial data analysis using PySpark. It involves aggregating data and applying window functions to analyze and visualize financial transactions. The dataset used contains 50 records of financial transactions, including categories such as salary, groceries, utilities, rent, and entertainment.
 
 ## Project Structure
